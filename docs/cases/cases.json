@@ -1,5 +1,12 @@
 [
 	{
+		"name": "医联",
+		"desc": "医生社交学术平台",
+		"ios": "https://itunes.apple.com/cn/app/id929939829?&mt=8",
+		"android": "http://www.medlinker.com/download/android",
+		"icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/03/da/38/03da3833-9db9-0921-c0ff-2e15b4816fea/AppIcon-1x_U007emarketing-85-220-8.png/460x0w.jpg"
+	},
+	{
 		"name": "京东金融",
 		"desc": "金融生活服务平台",
 		"ios": "https://itunes.apple.com/cn/app/id895682747?mt=8",
